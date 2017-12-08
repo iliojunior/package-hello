@@ -1,0 +1,14 @@
+{
+    "name": "iliojunior/package-hello",
+    "description": "Package Hello Name, for learn.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ilio Adriano de Oliveira Junior",
+            "email": "ilioadriano@live.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
