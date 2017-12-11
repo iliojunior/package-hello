@@ -10,5 +10,12 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "phpunit/phpunit": "4.0.*"
+    },
+    "autoload": {
+      "psr-4": {
+          "HelloName\\": "src"
+      }
+    }
 }
