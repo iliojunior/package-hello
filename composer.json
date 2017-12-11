@@ -1,6 +1,6 @@
 {
     "name": "iliojunior/package-hello",
-    "version": "0.0.1",
+    "version": "1.0.1",
     "description": "Package Hello Name, for learn.",
     "type": "library",
     "license": "MIT",
